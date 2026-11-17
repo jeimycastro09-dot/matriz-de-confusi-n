@@ -1,0 +1,6 @@
+{
+  "name": "Matriz de Confusión Interactiva",
+  "description": "Simulador educativo interactivo con explicaciones paso a paso para comprender e interpretar la matriz de confusión y sus métricas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
